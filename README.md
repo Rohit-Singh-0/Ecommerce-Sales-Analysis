@@ -5,7 +5,8 @@ This project analyzes **50,000 ecommerce transactions** to identify sales trends
 
 The project demonstrates an end-to-end data analytics workflow:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Data Cleaning → SQL Analysis → Power BI Dashboard → Business Insights   `
+
+`   Data Cleaning → SQL Analysis → Power BI Dashboard → Business Insights   `
 
 Project Overview
 ================
@@ -28,7 +29,7 @@ This project answers key business questions such as:
 Tech Stack
 ==========
 
-PythonPandasMySQLSQLAlchemyPower BI
+Python, Pandas, MySQL, SQLAlchemy, Power BI
 
 Dataset
 =======
@@ -64,7 +65,7 @@ Key steps:
 
 Notebook:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   data_cleaning_notebook.ipynb   `
+`   data_cleaning_notebook.ipynb   `
 
 SQL Analysis
 ============
@@ -86,7 +87,7 @@ SQL queries were written to analyze:
 
 File:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   SQL_analysis.sql   `
+`   SQL_analysis.sql   `
 
 Power BI Dashboard
 ==================
@@ -108,14 +109,12 @@ Features include:
 
 Dashboard file:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Ecommerce Transaction Analysis Dashboard.pbix   `
+`   Ecommerce Transaction Analysis Dashboard.pbix   `
 
 Dashboard Preview
 =================
 
-Add a screenshot of the dashboard here.
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   [INSERT DASHBOARD IMAGE]   `
+![Dashboard](screenshots/fullDashboard)
 
 Key Insights
 ============
@@ -132,7 +131,14 @@ Key Insights
 Project Structure
 =================
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Ecommerce-Transaction-Analysis│├── data_cleaning_notebook.ipynb├── SQL_analysis.sql├── Ecommerce Transaction Analysis Dashboard.pbix├── cleaned_ecommerce_transactions.csv└── README.md   `
+`   Ecommerce-Transaction-Analysis
+    │
+    ├── data_cleaning_notebook.ipynb
+    ├── SQL_analysis.sql
+    ├── Ecommerce Transaction Analysis Dashboard.pbix
+    ├── cleaned_ecommerce_transactions.csv
+    └── README.md  
+`
 
 How to Run
 ==========
