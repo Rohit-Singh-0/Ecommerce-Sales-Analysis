@@ -114,7 +114,7 @@ Dashboard file:
 Dashboard Preview
 =================
 
-![Dashboard](screenshots/fullDashboard)
+![Dashboard](screenshots/fullDashboard.png)
 
 Key Insights
 ============
