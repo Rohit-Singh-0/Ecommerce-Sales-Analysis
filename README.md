@@ -1,4 +1,4 @@
-Ecommerce Transaction Analysis
+Ecommerce Sales Analysis
 ==============================
 
 This project analyzes **50,000 ecommerce transactions** to identify sales trends, customer behavior, and revenue drivers using Python, SQL, and Power BI.
